@@ -18,7 +18,6 @@ CRUD And Authentication Application Laravel 4.2, is the demo web application tha
 - Creating A View
 
 ####Installing Laravel 4.2
----
 #####Server Requirement
 Below are the list of requirement to configure Laravel Framework.
 - PHP >= 5.4
